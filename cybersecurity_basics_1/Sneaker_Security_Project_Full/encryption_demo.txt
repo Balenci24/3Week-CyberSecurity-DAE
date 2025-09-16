@@ -1,0 +1,15 @@
+AES Encryption Demo (OpenSSL aes-256-cbc):
+
+Passphrase (demo - DO NOT USE IN PROD): DemoPassphrase!ChangeMe
+
+Plaintext: SneakerBrand Confidential: Client demo list. NOT REAL DATA.
+
+Ciphertext (base64):
+U2FsdGVkX1+mFf6lcxNJ92k0rvb5tsuhCCL5Fy34v3CJoNSWHe3qgr6aPimDpixA
+EYhk/nCko0inGyHOWLNJ+m7U/pBPLQKBnYh0g4L9RWM=
+
+
+Decrypted text (from OpenSSL): SneakerBrand Confidential: Client demo list. NOT REAL DATA.
+
+SHA256(plaintext): 560749f39b8117177af2da2d29fa6567c5cef3d296a87354b6d06ec0ae952e33
+MD5(plaintext): 814defe51c9c513738541c785cca09ae

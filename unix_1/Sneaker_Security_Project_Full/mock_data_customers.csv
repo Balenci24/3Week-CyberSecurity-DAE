@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,address,notes
+C001,Alex,Jordan,alex.jordan@example.com,"123 Sneaker St, New Haven, CT",Allergy: Latex
+C002,Jamie,Lee,jamie.lee@example.com,"456 Sole Ave, Hartford, CT",VIP
+C003,Sam,Patel,sam.patel@example.com,"789 Lace Rd, Stamford, CT",Prefers weekend pickup
+C004,Taylor,Nguyen,taylor.nguyen@example.com,"321 Arc Blvd, Bridgeport, CT",Return customer
